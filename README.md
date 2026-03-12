@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Meu nome é Pedro Alves tenho 19 anos, sou natural do Ceará. Concluí o ensino médio no Colégio atuelmente estou cursando Ciências da Computação na Estácio "[Perfil do Instagram](https://www.instagram.com/pred0._/)".
+Meu nome é Pedro Alves tenho 19 anos, sou natural do Ceará. Concluí o ensino médio na Escola E.M.E.F. Dom Helder Câmara atualmente estou cursando Ciências da Computação na Estácio "[Perfil do Instagram](https://www.instagram.com/pred0._/)".
 tenho foco em **Backend**, gosto de aprender na prática e estou sempre buscando evoluir em lógica, boas práticas e programação.
 
 
